@@ -1,0 +1,10 @@
+{
+  "name": "Mi Gallinero",
+  "short_name": "Gallinero",
+  "description": "Control de gastos e inventario del gallinero",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff8ee",
+  "theme_color": "#b42318",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
