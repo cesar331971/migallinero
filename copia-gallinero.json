@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1788258905655,
+    "fecha": "2026-08-27",
+    "importe": 18.1,
+    "categoria": "Alimentación",
+    "tipoPienso": "ponedoras",
+    "peso": "25",
+    "notas": ""
+  },
+  {
+    "id": 1785320052417,
+    "fecha": "2026-07-27",
+    "importe": 18.1,
+    "categoria": "Alimentación",
+    "tipoPienso": "ponedoras",
+    "peso": "25",
+    "notas": ""
+  },
+  {
+    "id": 1784654220844,
+    "fecha": "2026-07-17",
+    "importe": 7.8,
+    "categoria": "Alimentación",
+    "tipoPienso": "ponedoras",
+    "peso": "10",
+    "notas": ""
+  },
+  {
+    "id": 1784654194441,
+    "fecha": "2026-07-15",
+    "importe": 10,
+    "categoria": "Alimentación",
+    "tipoPienso": "mix",
+    "peso": "25",
+    "notas": ""
+  },
+  {
+    "id": 1784654147574,
+    "fecha": "2026-06-17",
+    "importe": 7.8,
+    "categoria": "Alimentación",
+    "tipoPienso": "ponedoras",
+    "peso": "10",
+    "notas": ""
+  },
+  {
+    "id": 1784654167014,
+    "fecha": "2026-06-17",
+    "importe": 10,
+    "categoria": "Alimentación",
+    "tipoPienso": "mix",
+    "peso": "25",
+    "notas": ""
+  },
+  {
+    "id": 1784654113617,
+    "fecha": "2026-06-06",
+    "importe": 4.8,
+    "categoria": "Alimentación",
+    "tipoPienso": "maiz",
+    "peso": "10",
+    "notas": ""
+  },
+  {
+    "id": 1784653943998,
+    "fecha": "2026-05-18",
+    "importe": 7.15,
+    "categoria": "Alimentación",
+    "tipoPienso": "pollos",
+    "peso": "10",
+    "notas": ""
+  },
+  {
+    "id": 1784653985857,
+    "fecha": "2026-05-18",
+    "importe": 4.8,
+    "categoria": "Alimentación",
+    "tipoPienso": "maiz",
+    "peso": "10",
+    "notas": ""
+  },
+  {
+    "id": 1784654021459,
+    "fecha": "2026-05-01",
+    "importe": 20,
+    "categoria": "Alimentación",
+    "tipoPienso": "ponedoras",
+    "peso": "25",
+    "notas": ""
+  }
+]
